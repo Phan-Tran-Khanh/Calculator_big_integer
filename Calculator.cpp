@@ -1,9 +1,4 @@
-/* #include <iostream>
-#include <string>
-#include <cmath>
-#include <time.h> */
 #include <bits/stdc++.h>
-#include <algorithm>
 #define max_int 18446744073709551615ULL
 typedef unsigned long long int ull;
 using namespace std;
