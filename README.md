@@ -24,12 +24,12 @@ The program uses mainly Struct and Array (String).
 * Factorial
 * Square Root
 * Square
-* Exponentiation (Power)
-* Power and mod (a^b % c)
-* Absolute Value (abs)
+* Exponentiation *(Power)*
+* Power and mod *(a^b % c)*
+* Absolute Value *(abs)*
 * Sin, cos, tan, cot
-* Greatest Common Divisor (gcd)
-* Lowest Common Multiple (lcm)
+* Greatest Common Divisor *(gcd)*
+* Lowest Common Multiple *(lcm)*
 * Prime Check
 
 ## REFERENCE DOCUMENTS
